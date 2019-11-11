@@ -1,0 +1,42 @@
+{
+	{
+    	"name": "I'm a Onmyoji",
+    	"sakuraName": "Onmyoji",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/Onmyoji.zip"
+	},
+	{
+    	"name": "I'm a bigfish",
+    	"sakuraName": "bigfish",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/bigfish.zip"
+	},
+	{
+    	"name": "I'm a cat",
+    	"sakuraName": "cat",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/cat.zip"
+	},
+	{
+    	"name": "I'm a monkey",
+    	"sakuraName": "monkey",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/monkey.zip"
+	},
+	{
+    	"name": "I'm a rabbit",
+    	"sakuraName": "rabbit",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/rabbit.zip"
+	},
+	{
+    	"name": "I'm a strawberry",
+    	"sakuraName": "strawberry",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/strawberry.zip"
+	},
+	{
+    	"name": "I'm a voice",
+    	"sakuraName": "voice",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/voice.zip"
+	},
+	{
+    	"name": "I'm a weibo",
+    	"sakuraName": "weibo",
+    	"url": "https://raw.githubusercontent.com/tingxins/Resource/master/Sakura/weibo.zip"
+	},
+}
